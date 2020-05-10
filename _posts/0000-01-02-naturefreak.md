@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to naturefreak's slide!"
 ---
-This is naturefreak's slide
+This is a slide created in Github Desktop
 Use the left arrow to go back!
